@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FilmKu" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/Tertiary_Color_Light_green</item>
+        <item name="colorPrimaryVariant">@color/Secondary_Color_Light_blue</item>
+        <item name="colorOnPrimary">@color/teal_700</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        
+    </style>
+</resources>

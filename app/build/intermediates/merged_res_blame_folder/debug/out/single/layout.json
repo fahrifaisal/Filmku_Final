@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/activity_main.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/fragment_search.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/fragment_details.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/trending_movie_item.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/trending_movie_item.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/movie_item.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/fragment_see_more.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_see_more.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/fragment_genres.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_genres.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/activity_splash.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-mergeDebugResources-75:/layout/fragment_trending.xml",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_trending.xml"
+    }
+]

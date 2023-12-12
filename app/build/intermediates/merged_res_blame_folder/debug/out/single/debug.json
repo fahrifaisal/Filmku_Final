@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_fragment_see_more.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_see_more.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-mdpi_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-mdpi/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/xml_data_extraction_rules.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-xxhdpi_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-xxhdpi/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_activity_splash.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_backbutton.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/backbutton.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/xml_backup_rules.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_activity_main.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_fragment_details.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_details.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-xhdpi_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-xhdpi/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_list_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_list_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_local_fire_department_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_local_fire_department_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_adult.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/adult.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-anydpi-v24_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.xml.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-anydpi-v24/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_fragment_genres.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_genres.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_movie_item.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/menu_bottom_nav_bar.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/menu/bottom_nav_bar.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_broken_image_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_broken_image_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/navigation_nav.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/navigation/nav.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-xxxhdpi_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-xxxhdpi/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_family_4_people_svgrepo_com.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/family_4_people_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_fragment_trending.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_trending.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_cached_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_cached_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-ldpi_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-ldpi/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_trending_movie_item.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/trending_movie_item.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/layout_fragment_search.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable_search_background.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/drawable-hdpi_blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png.flat",
+        "source": "com.d121211070.filmku.app-pngs-71:/drawable-hdpi/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.png"
+    },
+    {
+        "merged": "com.d121211070.filmku.app-merged_res-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.d121211070.filmku.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

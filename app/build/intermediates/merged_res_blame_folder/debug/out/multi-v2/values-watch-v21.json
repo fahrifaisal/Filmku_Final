@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.d121211070.filmku.app-mergeDebugResources-74:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fahri\\.gradle\\caches\\transforms-3\\52d25826ec10a3d7e18503fc0798ffc3\\transformed\\appcompat-1.6.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

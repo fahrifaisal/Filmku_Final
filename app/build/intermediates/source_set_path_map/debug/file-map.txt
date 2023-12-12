@@ -1,0 +1,79 @@
+com.d121211070.filmku.app-annotation-experimental-1.3.0-0 C:\Users\Fahri\.gradle\caches\transforms-3\034ffa64ae9895adad4a71f60be8fbd4\transformed\annotation-experimental-1.3.0\res
+com.d121211070.filmku.app-cardview-1.0.0-1 C:\Users\Fahri\.gradle\caches\transforms-3\05e5095101255386b362b3a474d9e2a6\transformed\cardview-1.0.0\res
+com.d121211070.filmku.app-navigation-dynamic-features-runtime-2.5.3-2 C:\Users\Fahri\.gradle\caches\transforms-3\061b416810d174ad60b9fafdb0fa266a\transformed\navigation-dynamic-features-runtime-2.5.3\res
+com.d121211070.filmku.app-drawerlayout-1.1.1-3 C:\Users\Fahri\.gradle\caches\transforms-3\0e99835ce169da75bd749e169123c6f2\transformed\drawerlayout-1.1.1\res
+com.d121211070.filmku.app-lifecycle-viewmodel-savedstate-2.5.1-4 C:\Users\Fahri\.gradle\caches\transforms-3\10b31d79064e70fff13c91af78e30871\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.d121211070.filmku.app-fragment-ktx-1.5.5-5 C:\Users\Fahri\.gradle\caches\transforms-3\15391455fc3934178e52495b812c4c24\transformed\fragment-ktx-1.5.5\res
+com.d121211070.filmku.app-runtime-saveable-1.0.1-6 C:\Users\Fahri\.gradle\caches\transforms-3\1816f661714a54f0351115094d3e4c62\transformed\runtime-saveable-1.0.1\res
+com.d121211070.filmku.app-navigation-compose-2.4.0-7 C:\Users\Fahri\.gradle\caches\transforms-3\213e2d308f91cfebb634b47cf0372665\transformed\navigation-compose-2.4.0\res
+com.d121211070.filmku.app-core-1.9.0-8 C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\res
+com.d121211070.filmku.app-activity-compose-1.3.1-9 C:\Users\Fahri\.gradle\caches\transforms-3\24d924e8bfd3910a139d6eeaecbd3a55\transformed\activity-compose-1.3.1\res
+com.d121211070.filmku.app-ui-text-1.0.1-10 C:\Users\Fahri\.gradle\caches\transforms-3\292b05d3af3a06eeafac6ab7a155ff97\transformed\ui-text-1.0.1\res
+com.d121211070.filmku.app-window-1.0.0-11 C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\res
+com.d121211070.filmku.app-lifecycle-process-2.4.1-12 C:\Users\Fahri\.gradle\caches\transforms-3\29e964bf3fe41fcc424c14862fa9375f\transformed\lifecycle-process-2.4.1\res
+com.d121211070.filmku.app-profileinstaller-1.0.1-13 C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\res
+com.d121211070.filmku.app-glide-4.13.2-14 C:\Users\Fahri\.gradle\caches\transforms-3\300a233f5777727066811aca5e09fe4d\transformed\glide-4.13.2\res
+com.d121211070.filmku.app-activity-1.6.0-15 C:\Users\Fahri\.gradle\caches\transforms-3\33e49f4d34aa417a6a66e25689ceab37\transformed\activity-1.6.0\res
+com.d121211070.filmku.app-databinding-runtime-7.3.1-16 C:\Users\Fahri\.gradle\caches\transforms-3\35f0a59b64aadbf990335e4ab719599c\transformed\databinding-runtime-7.3.1\res
+com.d121211070.filmku.app-room-ktx-2.5.0-17 C:\Users\Fahri\.gradle\caches\transforms-3\382f3ecbbc410b588fdb6ed6518e7dea\transformed\room-ktx-2.5.0\res
+com.d121211070.filmku.app-databinding-adapters-7.3.1-18 C:\Users\Fahri\.gradle\caches\transforms-3\39253857bebbae96bd654eec6a81efcf\transformed\databinding-adapters-7.3.1\res
+com.d121211070.filmku.app-navigation-runtime-ktx-2.5.3-19 C:\Users\Fahri\.gradle\caches\transforms-3\400a1b5578eeb5b0233e241fcece047e\transformed\navigation-runtime-ktx-2.5.3\res
+com.d121211070.filmku.app-transition-1.4.1-20 C:\Users\Fahri\.gradle\caches\transforms-3\451179355b46f5e8f70056d639079ed4\transformed\transition-1.4.1\res
+com.d121211070.filmku.app-ui-unit-1.0.1-21 C:\Users\Fahri\.gradle\caches\transforms-3\47f306f849ef7f4e8c8ef7a8662442d8\transformed\ui-unit-1.0.1\res
+com.d121211070.filmku.app-ui-geometry-1.0.1-22 C:\Users\Fahri\.gradle\caches\transforms-3\48420e2e4cf660f450672a827133e4c1\transformed\ui-geometry-1.0.1\res
+com.d121211070.filmku.app-lifecycle-runtime-2.5.1-23 C:\Users\Fahri\.gradle\caches\transforms-3\4c45aff7bfa3fa01a903f5fa2f239cbe\transformed\lifecycle-runtime-2.5.1\res
+com.d121211070.filmku.app-animation-core-1.0.1-24 C:\Users\Fahri\.gradle\caches\transforms-3\4db8938cffe1e436ba5e783edde4d5e0\transformed\animation-core-1.0.1\res
+com.d121211070.filmku.app-hilt-navigation-compose-1.0.0-25 C:\Users\Fahri\.gradle\caches\transforms-3\4de4aeb411954e45862af263c6921aac\transformed\hilt-navigation-compose-1.0.0\res
+com.d121211070.filmku.app-emoji2-1.2.0-26 C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\res
+com.d121211070.filmku.app-appcompat-1.6.0-27 C:\Users\Fahri\.gradle\caches\transforms-3\52d25826ec10a3d7e18503fc0798ffc3\transformed\appcompat-1.6.0\res
+com.d121211070.filmku.app-fragment-1.5.5-28 C:\Users\Fahri\.gradle\caches\transforms-3\57ab7c36c04e8f540f1722f9abb463ee\transformed\fragment-1.5.5\res
+com.d121211070.filmku.app-lifecycle-livedata-2.5.1-29 C:\Users\Fahri\.gradle\caches\transforms-3\58623e345156d2cf400397d98aad4d73\transformed\lifecycle-livedata-2.5.1\res
+com.d121211070.filmku.app-animation-1.0.1-30 C:\Users\Fahri\.gradle\caches\transforms-3\5c9da48276e5fad2f2d9c92826e5cb29\transformed\animation-1.0.1\res
+com.d121211070.filmku.app-runtime-1.0.1-31 C:\Users\Fahri\.gradle\caches\transforms-3\5e1785e6ab918cb848a34e64fa79d91c\transformed\runtime-1.0.1\res
+com.d121211070.filmku.app-lifecycle-livedata-ktx-2.5.1-32 C:\Users\Fahri\.gradle\caches\transforms-3\622cc9f83398c6bbacb1d9292042c8c8\transformed\lifecycle-livedata-ktx-2.5.1\res
+com.d121211070.filmku.app-hilt-navigation-1.0.0-33 C:\Users\Fahri\.gradle\caches\transforms-3\6521c98087b4827b0ba545467952670b\transformed\hilt-navigation-1.0.0\res
+com.d121211070.filmku.app-ui-util-1.0.1-34 C:\Users\Fahri\.gradle\caches\transforms-3\66a2d698159a74c567f129712de9f702\transformed\ui-util-1.0.1\res
+com.d121211070.filmku.app-lifecycle-service-2.4.0-35 C:\Users\Fahri\.gradle\caches\transforms-3\673ee3037d7cee3ad5492977ee50f31f\transformed\lifecycle-service-2.4.0\res
+com.d121211070.filmku.app-sqlite-2.3.0-36 C:\Users\Fahri\.gradle\caches\transforms-3\713ccddc27a45d0d76f8cced44b92606\transformed\sqlite-2.3.0\res
+com.d121211070.filmku.app-emoji2-views-helper-1.2.0-37 C:\Users\Fahri\.gradle\caches\transforms-3\71a7ab6db3a0180c1a82a6a6a16f99c7\transformed\emoji2-views-helper-1.2.0\res
+com.d121211070.filmku.app-lifecycle-viewmodel-2.5.1-38 C:\Users\Fahri\.gradle\caches\transforms-3\73fd58bef979721c97b23049d2b3b696\transformed\lifecycle-viewmodel-2.5.1\res
+com.d121211070.filmku.app-savedstate-ktx-1.2.0-39 C:\Users\Fahri\.gradle\caches\transforms-3\75dbaf570c0b4811151d532331dfa89a\transformed\savedstate-ktx-1.2.0\res
+com.d121211070.filmku.app-slidingpanelayout-1.2.0-40 C:\Users\Fahri\.gradle\caches\transforms-3\7cc3a01116d1183020d963cdfea186cc\transformed\slidingpanelayout-1.2.0\res
+com.d121211070.filmku.app-core-1.10.3-41 C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\res
+com.d121211070.filmku.app-navigation-fragment-ktx-2.5.3-42 C:\Users\Fahri\.gradle\caches\transforms-3\840b259ee986eec7bf974d82d58fb4b0\transformed\navigation-fragment-ktx-2.5.3\res
+com.d121211070.filmku.app-constraintlayout-2.1.4-43 C:\Users\Fahri\.gradle\caches\transforms-3\852b5354f77ab4b67c104c6580a46ffe\transformed\constraintlayout-2.1.4\res
+com.d121211070.filmku.app-navigation-common-ktx-2.5.3-44 C:\Users\Fahri\.gradle\caches\transforms-3\8555a8473c731588bf8460bb28edcdac\transformed\navigation-common-ktx-2.5.3\res
+com.d121211070.filmku.app-navigation-fragment-2.5.3-45 C:\Users\Fahri\.gradle\caches\transforms-3\8d9863d0a4f162f74a3bf77b9825f4af\transformed\navigation-fragment-2.5.3\res
+com.d121211070.filmku.app-startup-runtime-1.1.1-46 C:\Users\Fahri\.gradle\caches\transforms-3\9b2bd8e5b6696f3c0051f1c915b31966\transformed\startup-runtime-1.1.1\res
+com.d121211070.filmku.app-lifecycle-viewmodel-compose-2.5.1-47 C:\Users\Fahri\.gradle\caches\transforms-3\a0dcd3b84d51ab176dc0fad6367c797d\transformed\lifecycle-viewmodel-compose-2.5.1\res
+com.d121211070.filmku.app-lifecycle-runtime-ktx-2.5.1-48 C:\Users\Fahri\.gradle\caches\transforms-3\a2c1694e81566eaaa7f6802d40e61f9f\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.d121211070.filmku.app-navigation-dynamic-features-fragment-2.5.3-49 C:\Users\Fahri\.gradle\caches\transforms-3\a312f2edb36d253be769c504e3c857f5\transformed\navigation-dynamic-features-fragment-2.5.3\res
+com.d121211070.filmku.app-viewpager2-1.0.0-50 C:\Users\Fahri\.gradle\caches\transforms-3\a4fc3507c14e678caa5a481dd244905e\transformed\viewpager2-1.0.0\res
+com.d121211070.filmku.app-navigation-runtime-2.5.3-51 C:\Users\Fahri\.gradle\caches\transforms-3\a99992861cce4af3753651d63fc85e31\transformed\navigation-runtime-2.5.3\res
+com.d121211070.filmku.app-navigation-common-2.5.3-52 C:\Users\Fahri\.gradle\caches\transforms-3\a9f1a6f71bef0b2acd5c0972b918c858\transformed\navigation-common-2.5.3\res
+com.d121211070.filmku.app-navigation-ui-ktx-2.5.3-53 C:\Users\Fahri\.gradle\caches\transforms-3\af6366caafd83e7ef9a1f2bd5cf79ab1\transformed\navigation-ui-ktx-2.5.3\res
+com.d121211070.filmku.app-lifecycle-viewmodel-ktx-2.5.1-54 C:\Users\Fahri\.gradle\caches\transforms-3\b5d331b5fbda811eff0eb1ee2a522970\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.d121211070.filmku.app-ui-graphics-1.0.1-55 C:\Users\Fahri\.gradle\caches\transforms-3\b6b2d2343199ce92ec25e8e59952b3cb\transformed\ui-graphics-1.0.1\res
+com.d121211070.filmku.app-lifecycle-livedata-core-2.5.1-56 C:\Users\Fahri\.gradle\caches\transforms-3\be3c8c3b9135f5c4eec1c20ec552d24b\transformed\lifecycle-livedata-core-2.5.1\res
+com.d121211070.filmku.app-core-ktx-1.9.0-57 C:\Users\Fahri\.gradle\caches\transforms-3\bee525edaca5977b1cad84133df97b29\transformed\core-ktx-1.9.0\res
+com.d121211070.filmku.app-sqlite-framework-2.3.0-58 C:\Users\Fahri\.gradle\caches\transforms-3\c02057eff61b249d5df24a0fb162d4f4\transformed\sqlite-framework-2.3.0\res
+com.d121211070.filmku.app-coordinatorlayout-1.1.0-59 C:\Users\Fahri\.gradle\caches\transforms-3\c6f24757bc2949dc255418d82b215cc0\transformed\coordinatorlayout-1.1.0\res
+com.d121211070.filmku.app-core-splashscreen-1.0.0-60 C:\Users\Fahri\.gradle\caches\transforms-3\c8c14fe53dec19a737663b06046b971a\transformed\core-splashscreen-1.0.0\res
+com.d121211070.filmku.app-appcompat-resources-1.6.0-61 C:\Users\Fahri\.gradle\caches\transforms-3\cd752a3083c0ab656fde89e627104191\transformed\appcompat-resources-1.6.0\res
+com.d121211070.filmku.app-room-runtime-2.5.0-62 C:\Users\Fahri\.gradle\caches\transforms-3\ceaf963213c866743e6db8550c2dc040\transformed\room-runtime-2.5.0\res
+com.d121211070.filmku.app-activity-ktx-1.6.0-63 C:\Users\Fahri\.gradle\caches\transforms-3\d42061f252739dcd2b0541844b413991\transformed\activity-ktx-1.6.0\res
+com.d121211070.filmku.app-recyclerview-1.1.0-64 C:\Users\Fahri\.gradle\caches\transforms-3\d8e0094fc518b1c1671e057eff2e2a83\transformed\recyclerview-1.1.0\res
+com.d121211070.filmku.app-ui-1.0.1-65 C:\Users\Fahri\.gradle\caches\transforms-3\de955ba86ad56083f75d7d0da339a18f\transformed\ui-1.0.1\res
+com.d121211070.filmku.app-material-1.8.0-66 C:\Users\Fahri\.gradle\caches\transforms-3\df30a69d5f95d22c6b5fe871c0710690\transformed\material-1.8.0\res
+com.d121211070.filmku.app-foundation-layout-1.0.1-67 C:\Users\Fahri\.gradle\caches\transforms-3\df4e658764e8a769a3a1aac301e73f13\transformed\foundation-layout-1.0.1\res
+com.d121211070.filmku.app-lifecycle-livedata-core-ktx-2.5.1-68 C:\Users\Fahri\.gradle\caches\transforms-3\dff3b8165243211416ca26b89c810af5\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.d121211070.filmku.app-savedstate-1.2.0-69 C:\Users\Fahri\.gradle\caches\transforms-3\f0b3f8941e9c2fe9a1a94f3a94ceeaad\transformed\savedstate-1.2.0\res
+com.d121211070.filmku.app-navigation-ui-2.5.3-70 C:\Users\Fahri\.gradle\caches\transforms-3\f8fdcadf3c53f2b3cce2dfcd1e859b9e\transformed\navigation-ui-2.5.3\res
+com.d121211070.filmku.app-pngs-71 D:\Kuliah\pemrog mobile final\FINAL\app\build\generated\res\pngs\debug
+com.d121211070.filmku.app-resValues-72 D:\Kuliah\pemrog mobile final\FINAL\app\build\generated\res\resValues\debug
+com.d121211070.filmku.app-rs-73 D:\Kuliah\pemrog mobile final\FINAL\app\build\generated\res\rs\debug
+com.d121211070.filmku.app-packageDebugResources-74 D:\Kuliah\pemrog mobile final\FINAL\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.d121211070.filmku.app-packageDebugResources-75 D:\Kuliah\pemrog mobile final\FINAL\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.d121211070.filmku.app-merged_res-76 D:\Kuliah\pemrog mobile final\FINAL\app\build\intermediates\merged_res\debug
+com.d121211070.filmku.app-debug-77 D:\Kuliah\pemrog mobile final\FINAL\app\src\debug\res
+com.d121211070.filmku.app-main-78 D:\Kuliah\pemrog mobile final\FINAL\app\src\main\res

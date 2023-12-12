@@ -1,0 +1,222 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.d121211070.filmku"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:5:5-79
+11-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:6:5-66
+12-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.d121211070.filmku.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.d121211070.filmku.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+18-->[androidx.core:core:1.9.0] C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+20-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:13:5-77
+20-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:13:22-74
+21
+22    <application
+22-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:7:5-40:19
+23        android:name="com.d121211070.filmku.di.MyApp"
+23-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:8:9-33
+24        android:allowBackup="true"
+24-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:9:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.9.0] C:\Users\Fahri\.gradle\caches\transforms-3\21e0b148f4262ffec5541a54ae8eab6b\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:10:9-65
+27        android:debuggable="true"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:11:9-54
+29        android:icon="@drawable/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b"
+29-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:12:9-112
+30        android:label="@string/app_name"
+30-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:13:9-41
+31        android:roundIcon="@drawable/blue_square_2_d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b"
+31-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:14:9-117
+32        android:supportsRtl="false"
+32-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:15:9-36
+33        android:testOnly="true"
+34        android:theme="@style/Theme.FilmKu" >
+34-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:16:9-44
+35        <activity
+35-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:18:9-30:20
+36            android:name="com.d121211070.filmku.SplashActivity"
+36-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:19:13-43
+37            android:exported="true"
+37-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:21:13-36
+38            android:theme="@style/SplashScreenTheme" >
+38-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:20:13-53
+39            <intent-filter>
+39-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:22:13-26:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:23:17-69
+40-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:23:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:25:17-77
+42-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:25:27-74
+43            </intent-filter>
+44
+45            <meta-data
+45-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:27:13-29:36
+46                android:name="android.app.lib_name"
+46-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:28:17-52
+47                android:value="" />
+47-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:29:17-33
+48        </activity>
+49        <activity android:name="com.d121211070.filmku.MainActivity" >
+49-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:31:9-39:20
+49-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:32:13-41
+50            <meta-data
+50-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:27:13-29:36
+51                android:name="android.app.lib_name"
+51-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:28:17-52
+52                android:value="" />
+52-->D:\Kuliah\pemrog mobile final\FINAL\app\src\main\AndroidManifest.xml:29:17-33
+53        </activity>
+54
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+56            android:name="androidx.window.extensions"
+56-->[androidx.window:window:1.0.0] C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+59            android:name="androidx.window.sidecar"
+59-->[androidx.window:window:1.0.0] C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Users\Fahri\.gradle\caches\transforms-3\293233ebfa429309ca92072642cdb765\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+61
+62        <service
+62-->[androidx.room:room-runtime:2.5.0] C:\Users\Fahri\.gradle\caches\transforms-3\ceaf963213c866743e6db8550c2dc040\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+63            android:name="androidx.room.MultiInstanceInvalidationService"
+63-->[androidx.room:room-runtime:2.5.0] C:\Users\Fahri\.gradle\caches\transforms-3\ceaf963213c866743e6db8550c2dc040\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+64            android:directBootAware="true"
+64-->[androidx.room:room-runtime:2.5.0] C:\Users\Fahri\.gradle\caches\transforms-3\ceaf963213c866743e6db8550c2dc040\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+65            android:exported="false" />
+65-->[androidx.room:room-runtime:2.5.0] C:\Users\Fahri\.gradle\caches\transforms-3\ceaf963213c866743e6db8550c2dc040\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+66
+67        <provider
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+69            android:authorities="com.d121211070.filmku.androidx-startup"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+70            android:exported="false" >
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+71            <meta-data
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+73                android:value="androidx.startup" />
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Fahri\.gradle\caches\transforms-3\4e354942ce9f518ed71aebb8318143c7\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+74            <meta-data
+74-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Fahri\.gradle\caches\transforms-3\29e964bf3fe41fcc424c14862fa9375f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Fahri\.gradle\caches\transforms-3\29e964bf3fe41fcc424c14862fa9375f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+76                android:value="androidx.startup" />
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Fahri\.gradle\caches\transforms-3\29e964bf3fe41fcc424c14862fa9375f\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+77            <meta-data
+77-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+78-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:32:17-85
+79                android:value="androidx.startup" />
+79-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:33:17-49
+80        </provider>
+81        <provider
+81-->[com.squareup.picasso:picasso:2.8] C:\Users\Fahri\.gradle\caches\transforms-3\3f1d6df5d05fb8f79054f8d6d8652137\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+82            android:name="com.squareup.picasso.PicassoProvider"
+82-->[com.squareup.picasso:picasso:2.8] C:\Users\Fahri\.gradle\caches\transforms-3\3f1d6df5d05fb8f79054f8d6d8652137\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+83            android:authorities="com.d121211070.filmku.com.squareup.picasso"
+83-->[com.squareup.picasso:picasso:2.8] C:\Users\Fahri\.gradle\caches\transforms-3\3f1d6df5d05fb8f79054f8d6d8652137\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+84            android:exported="false" />
+84-->[com.squareup.picasso:picasso:2.8] C:\Users\Fahri\.gradle\caches\transforms-3\3f1d6df5d05fb8f79054f8d6d8652137\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+85
+86        <receiver
+86-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:36:9-45:20
+87            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+87-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:37:13-76
+88            android:directBootAware="false"
+88-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:38:13-44
+89            android:enabled="true"
+89-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:39:13-35
+90            android:exported="true"
+90-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:40:13-36
+91            android:permission="android.permission.DUMP" >
+91-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:41:13-57
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:42:13-44:29
+93                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:17-91
+93-->[androidx.profileinstaller:profileinstaller:1.0.1] C:\Users\Fahri\.gradle\caches\transforms-3\2ac464cf4a0db37ea8b05503afeb79aa\transformed\profileinstaller-1.0.1\AndroidManifest.xml:43:25-88
+94            </intent-filter>
+95        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+96        <activity
+96-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:18:9-24:45
+97            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+97-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:19:13-100
+98            android:enabled="false"
+98-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:20:13-36
+99            android:exported="false"
+99-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:21:13-37
+100            android:launchMode="singleInstance"
+100-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:22:13-48
+101            android:process=":playcore_missing_splits_activity"
+101-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:23:13-64
+102            android:stateNotNeeded="true" />
+102-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:24:13-42
+103        <activity
+103-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:25:9-29:65
+104            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+104-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:26:13-93
+105            android:exported="false"
+105-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:27:13-37
+106            android:stateNotNeeded="true"
+106-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:28:13-42
+107            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+107-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:29:13-62
+108        <service
+108-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:32:9-39:19
+109            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+109-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:33:13-94
+110            android:enabled="false"
+110-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:34:13-36
+111            android:exported="true" >
+111-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:35:13-36
+112            <meta-data
+112-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:36:13-38:41
+113                android:name="com.google.android.play.core.assetpacks.versionCode"
+113-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:37:17-83
+114                android:value="11003" />
+114-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:38:17-38
+115        </service>
+116        <service
+116-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:40:9-43:40
+117            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+117-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:41:13-95
+118            android:enabled="false"
+118-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:42:13-36
+119            android:exported="false" />
+119-->[com.google.android.play:core:1.10.3] C:\Users\Fahri\.gradle\caches\transforms-3\83ee912562133aa44447f12805d5a9cd\transformed\core-1.10.3\AndroidManifest.xml:43:13-37
+120    </application>
+121
+122</manifest>
